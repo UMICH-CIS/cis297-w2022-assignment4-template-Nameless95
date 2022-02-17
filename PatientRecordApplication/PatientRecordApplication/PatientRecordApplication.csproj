@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="balanceFileRead.cs" />
+    <Compile Include="duplicateEmployeeID.cs" />
+    <Compile Include="fileSearch.cs" />
+    <Compile Include="grabPatientData.cs" />
+    <Compile Include="Patientclass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
